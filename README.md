@@ -2,7 +2,7 @@
 
 App Windows temporanea e indipendente per amministrare il Regno di Suinopolis, con laboratorio locale, predisposizione Twitch, chat di prova e overlay OBS.
 
-## Anteprima 0.1.1 · Udienze della Corona
+## Anteprima 0.1.2 · Udienze della Corona
 
 Scarica **Suinopolis-Setup.exe** dalle [Release](https://github.com/Whis1/suinopolis-updates/releases/latest). Il laboratorio permette di provare economia, mappa, commerci e personalizzazione senza collegare utenti reali.
 
