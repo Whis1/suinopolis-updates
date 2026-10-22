@@ -2,13 +2,13 @@
 
 App Windows temporanea e indipendente per amministrare il Regno di Suinopolis, con laboratorio locale, predisposizione Twitch, chat di prova e overlay OBS.
 
-## Prima anteprima 0.1.0
+## Anteprima 0.1.1 · Udienze della Corona
 
 Scarica **Suinopolis-Setup.exe** dalle [Release](https://github.com/Whis1/suinopolis-updates/releases/latest). Il laboratorio permette di provare economia, mappa, commerci e personalizzazione senza collegare utenti reali.
 
-La tenuta personale mostra dimora e produzioni; il castello esterno e le sue estetiche si gestiscono dalla mappa globale. Gli acquisti estetici sbloccano oggetti da attivare esplicitamente.
+Il castello reale apre un’udienza con ISHOWDRIVE e due cavalieri: messaggi alla Corona e sussidi settimanali da 1 a 2.000 Suinos, decisi dal Re e pagati dalla tesoreria. La mappa usa terreni illustrati e biomi raccordati. La tenuta personale mostra dimora e produzioni; il castello esterno e le sue estetiche si gestiscono dalla mappa globale. Gli acquisti estetici sbloccano oggetti da attivare esplicitamente.
 
-Il servizio multiplayer online e l’accesso Twitch richiedono configurazione e collaudo prima dell’apertura ai giocatori. Questa release non conferma un servizio online attivo.
+L’anteprima del sito è pubblicata con accesso privato al proprietario. L’apertura ai giocatori e l’accesso Twitch reale richiedono ancora configurazione e collaudo. Il laboratorio locale è già disponibile senza credenziali.
 
 ## Aggiornamenti
 
