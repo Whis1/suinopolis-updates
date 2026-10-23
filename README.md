@@ -2,15 +2,15 @@
 
 App Windows indipendente per amministrare il Regno di Suinopolis.
 
-## Versione 0.1.12 · Il tuo casato
+## Versione 0.1.13 · Casati e udienza
 
 Scarica **Suinopolis-Setup.exe** dalle [Release](https://github.com/Whis1/suinopolis-updates/releases/latest).
 
-Pannello castello con pergamena, cornice dorata, testata in legno scuro e sigillo del casato. Personaggio più grande di circa il 15%; stendardo leggermente più centrale, con spazio separato dal fumetto. Colori e stemma del casato sincronizzati con la personalizzazione del castello.
+Coordinate reali X/Y nei pannelli castello al posto di insediamento e professione. Pulsanti alla larghezza del testo, con etichette senza interruzioni. Cerca coordinate disponibile sulla mappa anche fuori dal riposizionamento, con indicatore della destinazione. Navigazione a finestre per raggiungere regioni lontane mantenendo le posizioni globali condivise. Personaggi nel pannello alla stessa altezza visiva dello stendardo, senza deformare gli sprite. Accesso alla dimora dall’edificio nella tenuta; rimosso il fregio inferiore e unificati cerchio e X di chiusura in un unico SVG. Rimossa la barra sotto la mappa; fumetto del Re ancorato al ritratto e pulsanti dell’udienza uniformi e completi.
 
-Il Site online conserva la versione 0.1.10; per istruzione dell’utente questa versione viene pubblicata soltanto nell’app e mantenuta nei sorgenti locali.
+Il Site esistente è aggiornato alla stessa versione dell’app.
 
-100 test del gioco e 18 dell’app, controllo TypeScript, compilazione e dieci controlli installer superati. Resa visiva finale non verificata nel browser, disabilitato nelle impostazioni di Work.
+105 test del gioco e 18 dell’app, controllo TypeScript, compilazione e dieci controlli installer superati. Test specifici per coordinate condivise, regioni lontane, ritorno alla capitale e numeri non validi. Controllo visivo mirato di castello, mappa, chiusure e udienza su desktop; udienza verificata anche su schermo 390×844.
 
 Twitch reale e diretta OBS richiedono ancora credenziali e collaudo. Il laboratorio con abitanti fittizi è separato dal regno reale.
 
