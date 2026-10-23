@@ -2,15 +2,15 @@
 
 App Windows indipendente per amministrare il Regno di Suinopolis.
 
-## Versione 0.1.13 · Casati e udienza
+## Versione 0.1.14 · Riposizionamento e arredi liberi
 
 Scarica **Suinopolis-Setup.exe** dalle [Release](https://github.com/Whis1/suinopolis-updates/releases/latest).
 
-Coordinate reali X/Y nei pannelli castello al posto di insediamento e professione. Pulsanti alla larghezza del testo, con etichette senza interruzioni. Cerca coordinate disponibile sulla mappa anche fuori dal riposizionamento, con indicatore della destinazione. Navigazione a finestre per raggiungere regioni lontane mantenendo le posizioni globali condivise. Personaggi nel pannello alla stessa altezza visiva dello stendardo, senza deformare gli sprite. Accesso alla dimora dall’edificio nella tenuta; rimosso il fregio inferiore e unificati cerchio e X di chiusura in un unico SVG. Rimossa la barra sotto la mappa; fumetto del Re ancorato al ritratto e pulsanti dell’udienza uniformi e completi.
+Riposizionamento del castello con anteprima dell’intero ingombro 3×3, verde/rosso, coordinate e conferma separata. Classifica nascosta durante la scelta. Arredi liberi nell’intera immagine della stanza: trascinamento, rotazione, ritocchi fini e coordinate precise, anche sulle pareti o sovrapposti. Raccolta e selettore delle stanze mantengono accessibili oggetti e passaggi. Posizioni precedenti conservate.
 
 Il Site esistente è aggiornato alla stessa versione dell’app.
 
-105 test del gioco e 18 dell’app, controllo TypeScript, compilazione e dieci controlli installer superati. Test specifici per coordinate condivise, regioni lontane, ritorno alla capitale e numeri non validi. Controllo visivo mirato di castello, mappa, chiusure e udienza su desktop; udienza verificata anche su schermo 390×844.
+109 test del gioco e 18 dell’app, TypeScript, build e dieci controlli installer superati. Verifiche visive mirate desktop: ingombro completo, collisione con conferma bloccata, trasferimento riuscito; arredo sulla parete, rotazione, ritocco 0,01%, recupero da coordinate errate e salvataggio. Collegamento Twitch reale non certificato da queste prove.
 
 Twitch reale e diretta OBS richiedono ancora credenziali e collaudo. Il laboratorio con abitanti fittizi è separato dal regno reale.
 
