@@ -1,15 +1,19 @@
 # Suinopolis
 
-App Windows temporanea e indipendente per amministrare il Regno di Suinopolis, con laboratorio locale, predisposizione Twitch, chat di prova e overlay OBS.
+App Windows indipendente per amministrare il Regno di Suinopolis, con laboratorio locale, integrazione Twitch da configurare, chat di prova e overlay OBS.
 
-## Anteprima 0.1.7 · L’Influenza dei casati
+## Anteprima 0.1.8 · Le razioni del regno
 
-Scarica **Suinopolis-Setup.exe** dalle [Release](https://github.com/Whis1/suinopolis-updates/releases/latest). Il laboratorio permette di provare economia, mappa, commerci e personalizzazione senza collegare utenti reali.
+Scarica **Suinopolis-Setup.exe** dalle [Release](https://github.com/Whis1/suinopolis-updates/releases/latest).
 
-Il castello reale apre un’udienza con ISHOWDRIVE e due cavalieri: messaggi alla Corona e sussidi settimanali da 1 a 2.000 Suinos, decisi dal Re e pagati dalla tesoreria. La mappa usa terreno illustrato continuo, senza blocchi ambientali separati. La tenuta personale mostra dimora e produzioni; il castello esterno e le sue estetiche si gestiscono dalla mappa globale. Gli acquisti estetici sbloccano oggetti da attivare esplicitamente.
+Milizia nello stile grafico originale, senza stemmi reali: Lanciere (180 Suinos), Arciere (260), Soldato d’élite con visiera chiusa (650) e Cavaliere (1.100). Listini modificabili dal Re. Mantenimento soltanto in grano dal magazzino: 2, 2, 4 e 6 unità al giorno, anche durante le spedizioni. Nessuna spesa automatica di Suinos per le razioni. Se manca il grano, rifornisci il magazzino per sbloccare reclutamenti e nuove partenze. Eserciti e spedizioni esistenti conservati; il vecchio debito in oro è rimosso senza addebiti retroattivi.
 
-L’anteprima del sito è pubblicata con accesso privato al proprietario. L’apertura ai giocatori e l’accesso Twitch reale richiedono ancora configurazione e collaudo. Il laboratorio locale è disponibile senza credenziali, con Influenza totale e tenute riposizionabili. Il deploy del Site 0.1.7 è sospeso su richiesta del proprietario.
+Influenza totale pubblica esatta, classifica dedicata, titoli dei monopolisti, capitale completa e tenute riposizionabili. Il laboratorio con dodici abitanti fittizi resta separato dal regno reale.
+
+Il Site privato del proprietario è aggiornato alla stessa versione dell’app.
+
+L’apertura alla community, il login Twitch reale e una diretta OBS richiedono ancora configurazione e collaudo.
 
 ## Aggiornamenti
 
-Canale dedicato a Suinopolis, separato da APP ISHOWDRIVE. Il launcher verifica manifest RSA-SHA256, dimensione e SHA-256 del programma di installazione. La chiave privata di firma non è contenuta nell’app.
+Canale dedicato a Suinopolis, separato da APP ISHOWDRIVE. Il launcher verifica manifest RSA-SHA256, dimensione e SHA-256 dell’installer. La chiave privata non è contenuta nell’app.
