@@ -1,19 +1,19 @@
 # Suinopolis
 
-App Windows indipendente per amministrare il Regno di Suinopolis, con laboratorio locale, integrazione Twitch da configurare, chat di prova e overlay OBS.
+App Windows indipendente per amministrare il Regno di Suinopolis.
 
-## Anteprima 0.1.8 · Le razioni del regno
+## Versione 0.1.9 · La dimora e la Corona
 
 Scarica **Suinopolis-Setup.exe** dalle [Release](https://github.com/Whis1/suinopolis-updates/releases/latest).
 
-Milizia nello stile grafico originale, senza stemmi reali: Lanciere (180 Suinos), Arciere (260), Soldato d’élite con visiera chiusa (650) e Cavaliere (1.100). Listini modificabili dal Re. Mantenimento soltanto in grano dal magazzino: 2, 2, 4 e 6 unità al giorno, anche durante le spedizioni. Nessuna spesa automatica di Suinos per le razioni. Se manca il grano, rifornisci il magazzino per sbloccare reclutamenti e nuove partenze. Eserciti e spedizioni esistenti conservati; il vecchio debito in oro è rimosso senza addebiti retroattivi.
+Casa con salone, camera e cucina; otto arredi acquistabili in copie, orientabili in quattro direzioni e riposizionabili con collisioni. Frecce sul pavimento davanti alle porte. La tenuta produttiva resta distinta dalle stanze della dimora; le estetiche del cortile sono ritirate con rimborso singolo, conservando quelle esterne.
 
-Influenza totale pubblica esatta, classifica dedicata, titoli dei monopolisti, capitale completa e tenute riposizionabili. Il laboratorio con dodici abitanti fittizi resta separato dal regno reale.
+Mappa consultabile senza login Twitch, ammissione del Re, creazione e scelta terreno. Descrizione del castello con nuvoletta di undici secondi. Prigione reale a durata con economia congelata, animazione guardie, modifica pena e rilascio. Quattordici titoli unici assegnabili e revocabili con motivazione e bonus effettivi. Riposizionamento Castello iniziale a 200 Suinos.
 
-Il Site privato del proprietario è aggiornato alla stessa versione dell’app.
+Il Site esistente è aggiornato alla stessa versione dell’app.
 
-L’apertura alla community, il login Twitch reale e una diretta OBS richiedono ancora configurazione e collaudo.
+100 test del gioco e 18 dell’app, compilazione e dieci controlli installer superati. Twitch reale e diretta OBS richiedono ancora credenziali e collaudo. Il laboratorio con abitanti fittizi è separato dal regno reale.
 
 ## Aggiornamenti
 
-Canale dedicato a Suinopolis, separato da APP ISHOWDRIVE. Il launcher verifica manifest RSA-SHA256, dimensione e SHA-256 dell’installer. La chiave privata non è contenuta nell’app.
+Canale dedicato a Suinopolis, separato da APP ISHOWDRIVE. Manifest RSA-SHA256, dimensione e hash dell’installer verificati dal launcher. Nessuna chiave privata nel programma.
