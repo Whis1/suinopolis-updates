@@ -2,15 +2,15 @@
 
 App Windows indipendente per amministrare il Regno di Suinopolis.
 
-## Versione 0.1.15 · Il Palazzo della Corona
+## Versione 0.1.16 · Il registro dei sudditi
 
 Scarica **Suinopolis-Setup.exe** dalle [Release](https://github.com/Whis1/suinopolis-updates/releases/latest).
 
-Prospettiva web del Re con sala del trono e guardie, barra dedicata a notifiche, messaggi, produzioni, bottega, tesoreria, prigione, ruoli e leggi. Tesoreria iniziale di 50.000 Suinos; quota settimanale configurabile dal Re, inizialmente 70 e mai sotto 30. Arretrati conservati senza saldi negativi e scadenze sospese in prigionia. Bottega con prezzi consigliati e soglia minima, listino base della milizia fisso. Un solo Generale delle Armate: può arrestare, con stemma pubblico, senza altri poteri reali.
+Registro Gestisci suddito riorganizzato in sezioni: multe, materiali, tesoreria, accesso, titoli, prigione, proprietà ed esilio. Ogni provvedimento mostra solo i campi necessari e spiega il proprio effetto. Sospendi accesso diventa Ripristina accesso dopo la sospensione. Titoli assegnabili e revocabili senza duplicati. Importi positivi obbligatori per multe, concessioni e confische. Interfaccia condivisa fra anteprima web locale e Consiglio Windows, con aggiornamento dei saldi e della sezione dopo ogni decisione.
 
-Il Site esistente è aggiornato alla stessa versione dell’app.
+Il Site non è stato aggiornato in questa pubblicazione; consultare le ricevute di distribuzione del progetto.
 
-123 test del gioco e 19 dell’app, TypeScript, build e dieci controlli installer superati. Prove mirate nel laboratorio isolato: nomina del Generale, stemma pubblico, arresto e rilascio, quota minima 30, prezzi protetti, messaggi reali e sezioni dedicate. Twitch e OBS reali restano da collaudare.
+128 test del gioco e 20 dell’app, TypeScript, build e dieci controlli installer superati. Prove browser nel laboratorio isolato: multa in monete, confisca di una sola risorsa, concessione dalla tesoreria, sospendi/ripristina, assegna/revoca titolo, arresto/rilascio. Nuovo pannello verificato anche nell’app. Nessuna modifica al sito di produzione: pubblicazione Sites sospesa su richiesta dell’utente.
 
 Twitch reale e diretta OBS richiedono ancora credenziali e collaudo. Il laboratorio con abitanti fittizi è separato dal regno reale.
 
