@@ -2,15 +2,15 @@
 
 App Windows indipendente per amministrare il Regno di Suinopolis.
 
-## Versione 0.1.22 · Il mantenimento delle segrete
+## Versione 0.1.23 · Tributi e consenso
 
 Scarica **Suinopolis-Setup.exe** dalle [Release](https://github.com/Whis1/suinopolis-updates/releases/latest).
 
-Mantenimento alimentare dei prigionieri: 5 Suinos dalla Corona al momento dell’arresto e altri 5 ogni sette giorni per ciascun detenuto. Il registro distingue costi, prelievi e debito; con fondi insufficienti il detenuto resta e la Corona salda gli arretrati quando può. Il rilascio ferma i rinnovi. Regola valida anche per il Generale, riserve ordinarie protette, nessun costo retroattivo. Rimossa la frase superflua dal pannello Ruoli.
+Pagamento manuale dei tributi settimanali: le quote restano in sospeso finché il suddito sceglie una valutazione da 1 a 5 stelle e conferma il pagamento. Nuovo pannello medievale con pergamene, sigillo della Corona e stelle originali. Notifiche immediate dei versamenti al Re, senza voti individuali. Consenso dei Sudditi aggiornato subito come media dell’ultimo voto di ciascun suddito, visibile soltanto in forma aggregata. Arretrati e quote già maturate conservati; tesoreria e riserve esistenti rispettate.
 
 Il Site non è stato aggiornato in questa pubblicazione; consultare le ricevute di distribuzione del progetto.
 
-170 test del gioco e 24 dell’app superati, TypeScript e build completati, dieci controlli installer superati. Collaudo HTTP isolato: addebito immediato, idempotenza, rinnovi offline, debito, rilascio e saldo arretrati verificati. Browser locale disabilitato in Work. Il Site non è stato aggiornato in questa pubblicazione; consultare le ricevute di distribuzione del progetto.
+185 test del gioco e 25 dell’app superati, TypeScript e build completati, dieci controlli installer superati. Verifica visiva nel browser: pagamento, notifica al Re, lettura ricevute, media di due sudditi e resa a 390 pixel. Privacy dei voti, idempotenza, transazioni concorrenti, migrazione e conservazione della moneta testate. Il Site non è stato aggiornato in questa pubblicazione; consultare le ricevute di distribuzione del progetto.
 
 Twitch reale e diretta OBS richiedono ancora credenziali e collaudo. Il laboratorio con abitanti fittizi è separato dal regno reale.
 
