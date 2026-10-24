@@ -2,15 +2,15 @@
 
 App Windows indipendente per amministrare il Regno di Suinopolis.
 
-## Versione 0.1.14 · Riposizionamento e arredi liberi
+## Versione 0.1.15 · Il Palazzo della Corona
 
 Scarica **Suinopolis-Setup.exe** dalle [Release](https://github.com/Whis1/suinopolis-updates/releases/latest).
 
-Riposizionamento del castello con anteprima dell’intero ingombro 3×3, verde/rosso, coordinate e conferma separata. Classifica nascosta durante la scelta. Arredi liberi nell’intera immagine della stanza: trascinamento, rotazione, ritocchi fini e coordinate precise, anche sulle pareti o sovrapposti. Raccolta e selettore delle stanze mantengono accessibili oggetti e passaggi. Posizioni precedenti conservate.
+Prospettiva web del Re con sala del trono e guardie, barra dedicata a notifiche, messaggi, produzioni, bottega, tesoreria, prigione, ruoli e leggi. Tesoreria iniziale di 50.000 Suinos; quota settimanale configurabile dal Re, inizialmente 70 e mai sotto 30. Arretrati conservati senza saldi negativi e scadenze sospese in prigionia. Bottega con prezzi consigliati e soglia minima, listino base della milizia fisso. Un solo Generale delle Armate: può arrestare, con stemma pubblico, senza altri poteri reali.
 
 Il Site esistente è aggiornato alla stessa versione dell’app.
 
-109 test del gioco e 18 dell’app, TypeScript, build e dieci controlli installer superati. Verifiche visive mirate desktop: ingombro completo, collisione con conferma bloccata, trasferimento riuscito; arredo sulla parete, rotazione, ritocco 0,01%, recupero da coordinate errate e salvataggio. Collegamento Twitch reale non certificato da queste prove.
+123 test del gioco e 19 dell’app, TypeScript, build e dieci controlli installer superati. Prove mirate nel laboratorio isolato: nomina del Generale, stemma pubblico, arresto e rilascio, quota minima 30, prezzi protetti, messaggi reali e sezioni dedicate. Twitch e OBS reali restano da collaudare.
 
 Twitch reale e diretta OBS richiedono ancora credenziali e collaudo. Il laboratorio con abitanti fittizi è separato dal regno reale.
 
