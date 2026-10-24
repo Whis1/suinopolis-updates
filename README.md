@@ -2,15 +2,15 @@
 
 App Windows indipendente per amministrare il Regno di Suinopolis.
 
-## Versione 0.1.16 · Il registro dei sudditi
+## Versione 0.1.17 · La capitale del Re
 
 Scarica **Suinopolis-Setup.exe** dalle [Release](https://github.com/Whis1/suinopolis-updates/releases/latest).
 
-Registro Gestisci suddito riorganizzato in sezioni: multe, materiali, tesoreria, accesso, titoli, prigione, proprietà ed esilio. Ogni provvedimento mostra solo i campi necessari e spiega il proprio effetto. Sospendi accesso diventa Ripristina accesso dopo la sospensione. Titoli assegnabili e revocabili senza duplicati. Importi positivi obbligatori per multe, concessioni e confische. Interfaccia condivisa fra anteprima web locale e Consiglio Windows, con aggiornamento dei saldi e della sezione dopo ogni decisione.
+La capitale riconosce la prospettiva del Re: cliccandola si entra direttamente nel Palazzo, senza aprire l’udienza destinata ai sudditi. Nei pannelli dei castelli aperti dal Re sono rimossi Baratta e Attacca; gli altri pulsanti restano presenti. I cittadini conservano baratto, attacco e udienza con il Re. Mantiene il registro sudditi organizzato della versione precedente.
 
 Il Site non è stato aggiornato in questa pubblicazione; consultare le ricevute di distribuzione del progetto.
 
-128 test del gioco e 20 dell’app, TypeScript, build e dieci controlli installer superati. Prove browser nel laboratorio isolato: multa in monete, confisca di una sola risorsa, concessione dalla tesoreria, sospendi/ripristina, assegna/revoca titolo, arresto/rilascio. Nuovo pannello verificato anche nell’app. Nessuna modifica al sito di produzione: pubblicazione Sites sospesa su richiesta dell’utente.
+128 test del gioco e 20 dell’app, TypeScript, build e dieci controlli installer superati. Verifica browser mirata nel laboratorio locale: capitale → Palazzo per il Re, nessuna udienza; pulsanti del castello corretti per Re e cittadino; udienza del cittadino con messaggio e sussidi. Sites non usato su richiesta dell’utente: produzione web ancora 0.1.15.
 
 Twitch reale e diretta OBS richiedono ancora credenziali e collaudo. Il laboratorio con abitanti fittizi è separato dal regno reale.
 
