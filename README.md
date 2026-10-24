@@ -2,15 +2,15 @@
 
 App Windows indipendente per amministrare il Regno di Suinopolis.
 
-## Versione 0.1.18 · Spese della Corona
+## Versione 0.1.19 · Le voci del Regno
 
 Scarica **Suinopolis-Setup.exe** dalle [Release](https://github.com/Whis1/suinopolis-updates/releases/latest).
 
-Spese della Corona: addebito ogni sette giorni del 40% dei tributi realmente riscossi, fino a 600 Suinos. Registro dei sette servizi, cronologia delle chiusure e saldo distinto fra disponibile e accantonato. La quota è protetta da sussidi e concessioni; nessun costo retroattivo e nessuna spesa senza tributi. La dotazione iniziale, le multe e le entrate commerciali sono escluse dal calcolo. Prigionieri rappresentati con il proprio personaggio dietro le sbarre, in una cella medievale; eliminate le vecchie catene a X. Mantiene le correzioni della capitale e del registro sudditi.
+Cronache e Leggi spostati nella barra della mappa accanto a Il mio castello, Cerca coordinate e Capitale, con lo stesso stile dei pulsanti. Rimossi dal menu del regno. Comprende Spese della Corona sostenibili e la nuova prigione con personaggio dietro le sbarre della versione 0.1.18.
 
 Il Site esistente è aggiornato alla stessa versione dell’app.
 
-141 test del gioco e 21 dell’app, TypeScript, build e dieci controlli installer superati. Collaudo browser nel laboratorio isolato con 18 settimane simulate: importi, ripartizione, storico espandibile, aggiornamento e intestazione visibile. Il Site esistente è aggiornato alla stessa versione dell’app.
+141 test del gioco e 21 dell’app, TypeScript, build e dieci controlli installer superati. Collaudo browser locale: Cronache e Leggi nella barra mappa, aperture corrette, pulsanti allineati e rimozione dal menu. Bilancio e cella già verificati nella 0.1.18. Il Site esistente è aggiornato alla stessa versione dell’app.
 
 Twitch reale e diretta OBS richiedono ancora credenziali e collaudo. Il laboratorio con abitanti fittizi è separato dal regno reale.
 
