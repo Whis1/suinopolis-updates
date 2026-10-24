@@ -2,15 +2,15 @@
 
 App Windows indipendente per amministrare il Regno di Suinopolis.
 
-## Versione 0.1.17 · La capitale del Re
+## Versione 0.1.18 · Spese della Corona
 
 Scarica **Suinopolis-Setup.exe** dalle [Release](https://github.com/Whis1/suinopolis-updates/releases/latest).
 
-La capitale riconosce la prospettiva del Re: cliccandola si entra direttamente nel Palazzo, senza aprire l’udienza destinata ai sudditi. Nei pannelli dei castelli aperti dal Re sono rimossi Baratta e Attacca; gli altri pulsanti restano presenti. I cittadini conservano baratto, attacco e udienza con il Re. Mantiene il registro sudditi organizzato della versione precedente.
+Spese della Corona: addebito ogni sette giorni del 40% dei tributi realmente riscossi, fino a 600 Suinos. Registro dei sette servizi, cronologia delle chiusure e saldo distinto fra disponibile e accantonato. La quota è protetta da sussidi e concessioni; nessun costo retroattivo e nessuna spesa senza tributi. La dotazione iniziale, le multe e le entrate commerciali sono escluse dal calcolo. Prigionieri rappresentati con il proprio personaggio dietro le sbarre, in una cella medievale; eliminate le vecchie catene a X. Mantiene le correzioni della capitale e del registro sudditi.
 
-Il Site non è stato aggiornato in questa pubblicazione; consultare le ricevute di distribuzione del progetto.
+Il Site esistente è aggiornato alla stessa versione dell’app.
 
-128 test del gioco e 20 dell’app, TypeScript, build e dieci controlli installer superati. Verifica browser mirata nel laboratorio locale: capitale → Palazzo per il Re, nessuna udienza; pulsanti del castello corretti per Re e cittadino; udienza del cittadino con messaggio e sussidi. Sites non usato su richiesta dell’utente: produzione web ancora 0.1.15.
+141 test del gioco e 21 dell’app, TypeScript, build e dieci controlli installer superati. Collaudo browser nel laboratorio isolato con 18 settimane simulate: importi, ripartizione, storico espandibile, aggiornamento e intestazione visibile. Il Site esistente è aggiornato alla stessa versione dell’app.
 
 Twitch reale e diretta OBS richiedono ancora credenziali e collaudo. Il laboratorio con abitanti fittizi è separato dal regno reale.
 
