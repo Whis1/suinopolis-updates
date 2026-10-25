@@ -2,15 +2,15 @@
 
 App Windows indipendente per amministrare il Regno di Suinopolis.
 
-## Versione 0.1.30 · Scudi e spedizioni
+## Versione 0.1.32 · Assedi e riparazioni
 
 Scarica **Suinopolis-Setup.exe** dalle [Release](https://github.com/Whis1/suinopolis-updates/releases/latest).
 
-Attacchi tra sudditi liberi, senza approvazione reale. Richiamo delle proprie marce dal punto raggiunto e rientro automatico quando il nemico lascia il campo, viene sconfitto o il castello bersaglio si trasferisce. Scudi protettivi 24H, 7g e 30g con prezzi fissi 200, 1.000 e 2.500 Suinos, custoditi nell’inventario personale, cumulabili e non barattabili. Attaccare un castello interrompe la propria protezione. Cronache neutrali per partenza e scontro, resoconti riservati ai partecipanti, fiamme lievi per cinque minuti sul castello sconfitto e avvisi laterali discreti durante un assedio. Pannello del contingente compatto con destinazione cliccabile. Incontri procedurali condivisi anche nelle regioni lontane, distanti almeno quattordici caselle tra loro e sette dai castelli. Include formazioni compatte, traccia direzionale e notifiche dettagliate del lavoro 0.1.29 non distribuito separatamente.
+Assedi e riparazioni: fiamme leggere sul castello sconfitto per cinque minuti esatti e ai lati della tenuta, avviso rosso laterale lento mentre si avvicinano truppe nemiche. Corretto l’aggiornamento della mappa e il riavvio continuo dell’animazione. Dopo una sconfitta le strutture produttive costruite restano danneggiate e ferme finché il proprietario le ripara con 20 o 30 Suinos e poche risorse. Nessun costo o produzione maturato nel periodo di guasto; il riavvio parte da un nuovo ciclo. Protezione esclusivamente manuale: niente scudo iniziale o dopo gli scontri. Altre spedizioni possono arrivare e saccheggiare il magazzino a ogni vittoria. Scudi acquistati e attivati dal giocatore conservati. Include il bilanciamento delle battaglie e i resoconti di danni e perdite della 0.1.31, non distribuita separatamente: nessuna perdita per l’esercito vincitore con almeno quattro volte la potenza avversaria, singolo bilancio delle perdite e danni pari alla potenza delle unità eliminate.
 
 Il Site non è stato aggiornato in questa pubblicazione; consultare le ricevute di distribuzione del progetto.
 
-277 test del gioco, 33 test dell’app, TypeScript/build e dieci controlli installer sul pacchetto finale. Verificati richiami manuali e automatici, trasferimenti, scudi cumulabili, proprietà e concorrenza, riservatezza dei risultati, ricomparse e regioni procedurali remote. Controllo browser non disponibile: nessun nuovo collaudo interattivo visivo dichiarato. Il Site non è stato aggiornato in questa pubblicazione; consultare le ricevute di distribuzione del progetto.
+299 test del gioco e 35 dell’app superati; 6.000 combinazioni di eserciti e caso singolo lanciere contro guarnigione mista. Undici scenari dedicati ad assedi e riparazioni: scadenza a cinque minuti, animazione continua, riparazione, produzione, concorrenza, proprietà e migrazione degli scudi. Prove API reali dell’app. TypeScript/build e dieci controlli installer sul pacchetto finale. Nessun controllo browser interattivo disponibile. Il Site non è stato aggiornato in questa pubblicazione; consultare le ricevute di distribuzione del progetto.
 
 Twitch reale e diretta OBS richiedono ancora credenziali e collaudo. Il laboratorio con abitanti fittizi è separato dal regno reale.
 
